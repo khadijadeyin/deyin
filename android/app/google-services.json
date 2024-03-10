@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332162346440",
+    "project_id": "projet1-cfe3f",
+    "storage_bucket": "projet1-cfe3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332162346440:android:4e8315fab50a38b3aea4fd",
+        "android_client_info": {
+          "package_name": "com.example.deyin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpyyLeDA0DD23hMuBMhaOCbwVw1T3drvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
